@@ -1,0 +1,96 @@
+%PDF-1.4
+1 0 obj
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+  /Type /Pages
+  /Kids [3 0 R]
+  /Count 1
+>>
+endobj
+
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 595 842]
+  /Contents 4 0 R
+  /Resources <<
+    /Font <<
+      /F1 <<
+        /Type /Font
+        /Subtype /Type1
+        /BaseFont /Helvetica-Bold
+      >>
+      /F2 <<
+        /Type /Font
+        /Subtype /Type1
+        /BaseFont /Helvetica
+      >>
+    >>
+  >>
+>>
+endobj
+
+4 0 obj
+<<
+  /Length 720
+>>
+stream
+BT
+/F1 22 Tf
+50 780 Td
+(DEVELOPER RESUME - FULL STACK & 3D WEB SPECIALIST) Tj
+/F2 11 Tf
+0 -24 Td
+(Location: Global Remote / Hybrid | GitHub: YOUR_GITHUB | LinkedIn: YOUR_LINKEDIN) Tj
+0 -36 Td
+/F1 14 Tf
+(PROFESSIONAL SUMMARY) Tj
+/F2 11 Tf
+0 -20 Td
+(Passionate Full-Stack Developer creating intelligent, scalable, and high-performance digital) Tj
+0 -16 Td
+(experiences. Proficient with React, Three.js, Node.js, Python, and Modern Cloud Architectures.) Tj
+0 -36 Td
+/F1 14 Tf
+(CORE COMPETENCIES) Tj
+/F2 11 Tf
+0 -20 Td
+(Frontend: React.js, Three.js / React Three Fiber, Framer Motion, TypeScript, Modern CSS) Tj
+0 -16 Td
+(Backend: Node.js, Express, Python, Django, REST & GraphQL APIs) Tj
+0 -16 Td
+(Databases & Tools: MongoDB, PostgreSQL, Docker, Git, Linux, Postman) Tj
+0 -36 Td
+/F1 14 Tf
+(FEATURED WORK & ACHIEVEMENTS) Tj
+/F2 11 Tf
+0 -20 Td
+(- Built award-winning interactive 3D web applications with seamless WebGL rendering.) Tj
+0 -16 Td
+(- Architected responsive, accessible, full-stack microservices and distributed databases.) Tj
+ET
+endstream
+endobj
+
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000068 00000 n 
+0000000135 00000 n 
+0000000388 00000 n 
+trailer
+<<
+  /Size 5
+  /Root 1 0 R
+>>
+startxref
+1165
+%%EOF

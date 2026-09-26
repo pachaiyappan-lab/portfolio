@@ -1,0 +1,92 @@
+export const projectsData = [
+  {
+    id: "ai-crop-health",
+    title: "AI Crop Health Monitoring & Neural Agro-Scanner",
+    subtitle: "Precision Agriculture via Computer Vision & IoT Telemetry",
+    description: "An AI-powered agricultural monitoring platform that analyzes real-time crop disease markers, soil composition metrics, and pest infestations using deep learning computer vision algorithms.",
+    longDescription: "Engineered to empower farmers with immediate diagnostic insight. The system ingests drone aerial footage and mobile camera imagery, passing frames through a custom convolutional neural network (CNN) that detects foliar pathogens with 94.8% accuracy. It integrates microclimate IoT sensors to forecast pest outbreaks 7 days ahead.",
+    featured: true,
+    category: "AI & Full Stack",
+    image: "https://images.unsplash.com/photo-1586771107445-d3ca888129ff?auto=format&fit=crop&w=1200&q=80",
+    tags: ["React", "Python", "Computer Vision", "TensorFlow", "FastAPI", "IoT Telemetry"],
+    metrics: [
+      { label: "Model Accuracy", value: "94.8%" },
+      { label: "Inference Latency", value: "85ms" },
+      { label: "Supported Crops", value: "40+" }
+    ],
+    github: "https://github.com/YOUR_GITHUB/ai-crop-health-monitoring",
+    demo: "https://ai-crop-health.demo.app",
+    color: "#10b981",
+    accentGlow: "rgba(16, 185, 129, 0.4)"
+  },
+  {
+    id: "holographic-fintech",
+    title: "CyberPulse — 3D FinTech Trading Terminal",
+    subtitle: "High-frequency telemetry & interactive WebGL orderbook visualization",
+    description: "A next-generation financial workspace featuring 3D particle liquidity heatmaps, sub-second ticker streaming, and AI sentiment analysis on global financial news.",
+    featured: false,
+    category: "3D & WebGL",
+    image: "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=900&q=80",
+    tags: ["React", "Three.js", "WebSocket", "Tailwind CSS", "Chart.js"],
+    github: "https://github.com/YOUR_GITHUB/cyberpulse-trading-terminal",
+    demo: "https://cyberpulse-terminal.demo.app",
+    color: "#00f0ff",
+    accentGlow: "rgba(0, 240, 255, 0.35)"
+  },
+  {
+    id: "neural-audio-synth",
+    title: "Synthetix — Neural Audio Synthesizer",
+    subtitle: "Real-time generative spatial audio canvas",
+    description: "An interactive browser-based synthesizer that maps user cursor physics into multi-oscillator frequency modulation and spatial reverberation using Web Audio API.",
+    featured: false,
+    category: "Audio & Web APIs",
+    image: "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=900&q=80",
+    tags: ["JavaScript", "Web Audio API", "Canvas2D", "Framer Motion"],
+    github: "https://github.com/YOUR_GITHUB/synthetix-audio-lab",
+    demo: "https://synthetix-audio.demo.app",
+    color: "#9d4edd",
+    accentGlow: "rgba(157, 78, 221, 0.35)"
+  },
+  {
+    id: "decentralized-vault",
+    title: "Aegis — Zero-Knowledge Cloud Vault",
+    subtitle: "Client-side encrypted document storage with cryptographic verification",
+    description: "Privacy-first distributed vault that shards and client-encrypts confidential payloads before dispatching to decentralized peer-to-peer storage nodes.",
+    featured: false,
+    category: "Security & Cloud",
+    image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=900&q=80",
+    tags: ["React", "Node.js", "WebCrypto", "IPFS", "Docker"],
+    github: "https://github.com/YOUR_GITHUB/aegis-zk-vault",
+    demo: "https://aegis-vault.demo.app",
+    color: "#f72585",
+    accentGlow: "rgba(247, 37, 133, 0.35)"
+  },
+  {
+    id: "omnichannel-rag-agent",
+    title: "OmniMind — Autonomous RAG Intelligence Agent",
+    subtitle: "Enterprise knowledge synthesis with vector clustering",
+    description: "Retrieval-Augmented Generation agent connecting PDF archives, SQL databases, and internal wikis into an conversational interface with precise source citations.",
+    featured: false,
+    category: "AI & LLMs",
+    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=900&q=80",
+    tags: ["Python", "LangChain", "ChromaDB", "React", "FastAPI"],
+    github: "https://github.com/YOUR_GITHUB/omnimind-rag-agent",
+    demo: "https://omnimind-agent.demo.app",
+    color: "#3b82f6",
+    accentGlow: "rgba(59, 130, 246, 0.35)"
+  },
+  {
+    id: "cyberpunk-dev-dashboard",
+    title: "NeuroDev — System Telemetry & Monorepo Hub",
+    subtitle: "Unified developer operations cockpit with visual git trees",
+    description: "Comprehensive developer operations dashboard featuring microservice health heatmaps, branch deployment monitoring, and interactive container metrics.",
+    featured: false,
+    category: "DevOps & Cloud",
+    image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=900&q=80",
+    tags: ["React", "Framer Motion", "Express", "MongoDB", "Docker API"],
+    github: "https://github.com/YOUR_GITHUB/neurodev-cockpit",
+    demo: "https://neurodev.demo.app",
+    color: "#06b6d4",
+    accentGlow: "rgba(6, 182, 212, 0.35)"
+  }
+];
